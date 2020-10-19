@@ -1,4 +1,4 @@
-papackage exercise3;
+package exercise3;
 
 public class NumberSearch {
 
